@@ -25,34 +25,29 @@
 <a id="repositories"></a>
 <img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/section-repos.svg" width="100%" alt="Repositories" />
 <br/>
+
 <table width="100%">
 <tr>
 <td width="50%">
-<a href="https://github.com/sanskarGupta23/ADCTIR"><img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-adctir.svg" width="100%" alt="ADCTIR" /></a>
+<a href="https://github.com/sanskarGupta23/ADCTIR">
+<img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-adctir.svg" width="100%" alt="ADCTIR" />
+</a>
 </td>
+
 <td width="50%">
-<a href="https://github.com/sanskarGupta23/Help-desk-Management-"><img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-help-desk-management.svg" width="100%" alt="Help Desk Management" /></a>
+<a href="https://github.com/sanskarGupta23/Help-desk-Management-">
+<img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-help-desk-management.svg" width="100%" alt="Help Desk Management" />
+</a>
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/sanskarGupta23/Open_Duck_Playground"><b>Open_Duck_Playground</b></a> <sub>PRIVATE</sub>
-</td>
-</tr>
-<!--
-  TO ADD A REPOSITORY LATER:
-  1. In assets/, copy repo-template.svg, rename it (e.g. repo-my-project.svg)
-     and edit its two text lines: the title and the github.com/... address.
-  2. Paste a new row below (or a new <td> pair), then save:
 
 <tr>
-<td width="50%">
-<a href="https://github.com/sanskarGupta23/REPO-NAME"><img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-my-project.svg" width="100%" alt="REPO NAME" /></a>
+<td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/repo-open-duck-private.svg" width="50%" alt="Open Duck Playground — Private Repository" />
 </td>
-<td width="50%"></td>
 </tr>
--->
 </table>
+
 
 <img src="https://raw.githubusercontent.com/sanskarGupta23/sanskarGupta23/main/assets/divider.svg" width="100%" alt="" />
 
